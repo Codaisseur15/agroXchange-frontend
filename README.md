@@ -31,7 +31,7 @@ Open terminal, go to frontend folder, run "yarn install" start or "npm install" 
 Then run "yarn start" or "npm start" This will run the app on port 3000 in your web browser. 
 
 ### Backend: 
-Same as frontend, run "yarn install" for the dependencies. Afterwards run "nodemon ." in the terminal. This will start the server on port 4009.
+Same as frontend, run "yarn install" for the dependencies. Afterwards run "nodemon ." in the terminal. This will start the server on port 4008.
 
 ### Database: 
 I'm running a docker container (port 5432) with a Postgres DB. A local DB should work as well.
@@ -45,14 +45,14 @@ I'm running a docker container (port 5432) with a Postgres DB. A local DB should
 * [TypeOrm](https://github.com/typeorm) - TypeScript focused ORM for the backend.  
 
 ### Authors
-**Scott Baxendale**
-**Friedrich Striewski**
-**Peter Schrammen**
-**Nick Schooneman**
-**Sanne Stuur**
-**Luca Di Donato**
-**Oksana Melnik**
-**Viktor Mun**
-**Yoonji Oh**
+* **Scott Baxendale**
+* **Friedrich Striewski**
+* **Peter Schrammen**
+* **Nick Schooneman**
+* **Sanne Stuur**
+* **Luca Di Donato**
+* **Oksana Melnik**
+* **Viktor Mun**
+* **Yoonji Oh**
 
 
